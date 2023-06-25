@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [Why AI is important for social media writing](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI in Social Media Writing](chapter-2.md)
   - [Definition of AI-powered social media writing](chapter-2-1.md)
   - [Types of AI used for social media writing](chapter-2-2.md)

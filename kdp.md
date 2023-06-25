@@ -37,5 +37,5 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. Social Media Marketing with AI
 18. Content Optimization with AI
 19. Creative Writing with AI
-20. Ethical considerations for AI in Social Media Writing.
+
 
