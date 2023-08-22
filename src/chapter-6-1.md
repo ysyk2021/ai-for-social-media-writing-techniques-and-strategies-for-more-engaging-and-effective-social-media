@@ -1,5 +1,4 @@
-Overview of AI applications for audience targeting in social media writing
-===============================================================================================================================
+
 
 In social media marketing, understanding your audience is essential for creating engaging and effective content. However, analyzing large volumes of data to gain insights into your audience can be a daunting task. This is where Artificial Intelligence (AI) comes in.
 
