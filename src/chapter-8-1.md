@@ -1,5 +1,4 @@
 
-
 Using AI for improved engagement metrics can significantly improve the effectiveness of social media writing. In this chapter, we will provide an overview of AI applications for engagement metrics in social media writing.
 
 Sentiment Analysis

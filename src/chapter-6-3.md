@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) has revolutionized the way social media marketers approach audience targeting. By using AI algorithms to analyze vast amounts of data, marketers can gain insights into their audience that would be difficult or impossible to detect manually. In this chapter, we will look at some case studies of successful AI implementations in enhanced audience targeting.
 
 Netflix

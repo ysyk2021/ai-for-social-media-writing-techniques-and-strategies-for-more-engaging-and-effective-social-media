@@ -1,5 +1,4 @@
 
-
 There are several types of AI that can be used for social media writing. In this chapter, we will discuss the most common types and how they can be applied to enhance social media content creation, curation, and distribution.
 
 Natural Language Processing (NLP)
