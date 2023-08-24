@@ -1,5 +1,4 @@
 
-
 While Artificial Intelligence (AI) can be a powerful tool for enhancing audience targeting and creating more effective social media content, it also raises important ethical concerns. In this chapter, we will discuss the ethical considerations for AI implementation in social media writing.
 
 Bias and fairness

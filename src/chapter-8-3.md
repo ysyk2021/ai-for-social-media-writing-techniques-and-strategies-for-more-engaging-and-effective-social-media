@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore case studies of successful AI implementations in improving engagement metrics on social media platforms. These examples demonstrate how AI can be used to create more engaging and effective content, resulting in increased likes, shares, comments, and other forms of engagement.
 
 Case Study 1: Netflix

@@ -1,5 +1,4 @@
 
-
 AI can be a powerful tool for improving engagement metrics on social media platforms. In this chapter, we will explore best practices for implementing AI in areas such as sentiment analysis, social listening, and user profiling to improve engagement metrics.
 
 Sentiment Analysis
