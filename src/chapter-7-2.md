@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for AI Implementation in Scheduling, Optimization, and Testing
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for implementing artificial intelligence (AI) in areas such as scheduling, optimization, and testing for social media writing. AI technologies offer valuable capabilities to streamline processes and enhance the effectiveness of social media campaigns. By following these best practices, social media professionals can leverage AI effectively to optimize their strategies and achieve more engaging and effective social media posts. This chapter will cover the following key points:
 

@@ -1,5 +1,4 @@
-Chapter 2: Definition of AI-Powered Social Media Writing
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will define and explore the concept of AI-powered social media writing. As artificial intelligence continues to advance, it has become an integral part of content creation and marketing strategies in the realm of social media. This chapter aims to provide a comprehensive understanding of what AI-powered social media writing entails. We will cover the following key points:
 

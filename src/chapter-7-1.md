@@ -1,5 +1,4 @@
-Chapter 6: Overview of AI Applications for Posting Times and Frequency in Social Media Writing
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of AI applications for determining optimal posting times and frequency in social media writing. The timing and frequency of posts play a crucial role in reaching and engaging the target audience effectively. By leveraging artificial intelligence (AI) technologies, social media professionals can analyze data, identify patterns, and make data-driven decisions to maximize the impact of their content. This chapter will cover the following key points:
 

@@ -1,5 +1,4 @@
-Chapter 5: Overview of AI Applications for Audience Targeting in Social Media Writing
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various AI applications that can greatly enhance audience targeting in social media writing. These AI-driven techniques and strategies enable social media professionals to reach the right audience with the right content at the right time. This chapter will cover the following key points:
 

@@ -1,5 +1,4 @@
-Chapter 11: Developing Governance Frameworks to Ensure Responsible AI Use
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing governance frameworks to ensure responsible AI use in social media writing. As AI technologies become increasingly integrated into social media strategies, it is essential to establish robust governance mechanisms that address ethical, legal, and societal considerations. By implementing effective governance frameworks, organizations can mitigate risks, foster accountability, and promote responsible AI use for creating more engaging and effective social media posts. This chapter will cover the following key points:
 

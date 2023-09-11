@@ -1,5 +1,4 @@
-Chapter 2: Overview of AI Applications for Engagement Metrics in Social Media Writing
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI applications for measuring and improving engagement metrics in social media writing. AI technologies have revolutionized the way organizations approach content creation, allowing for more targeted, personalized, and effective social media posts. By understanding the different AI applications available, social media professionals can leverage these tools to optimize their content strategies and achieve higher levels of user engagement. This chapter will cover the following key areas:
 

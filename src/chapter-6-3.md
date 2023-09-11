@@ -1,5 +1,4 @@
-Chapter 9: Case Studies of Successful AI Implementations in Enhanced Audience Targeting
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into case studies that demonstrate successful AI implementations in enhanced audience targeting for social media writing. These case studies highlight real-world examples where AI techniques and strategies have been effectively utilized to improve audience targeting, engagement, and overall campaign performance. This chapter will cover the following key points:
 

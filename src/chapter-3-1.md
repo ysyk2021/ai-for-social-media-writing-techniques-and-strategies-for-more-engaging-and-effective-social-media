@@ -1,5 +1,4 @@
-Chapter 4: Assessing Your Social Media Writing Needs and Goals
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of assessing your social media writing needs and goals. Before implementing AI technologies for social media writing, it is crucial to have a clear understanding of your specific requirements and objectives. By conducting a thorough assessment, you can align your strategies with the capabilities of AI and maximize its potential for creating more engaging and effective social media posts. This chapter will cover the following key points:
 

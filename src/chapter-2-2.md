@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Used for Social Media Writing
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the various types of artificial intelligence (AI) used for social media writing. AI technologies play a crucial role in enhancing and optimizing social media content creation processes. By understanding the different types of AI commonly employed, social media professionals can leverage their capabilities to create more engaging and effective posts. This chapter will cover the following key points:
 

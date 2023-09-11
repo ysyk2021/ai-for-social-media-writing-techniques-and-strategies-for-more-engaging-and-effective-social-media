@@ -1,5 +1,4 @@
-Chapter 6: Overview of AI Applications for Content Creation in Social Media Writing
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various applications of artificial intelligence (AI) for content creation in social media writing. AI technologies have revolutionized the way social media professionals create and optimize content, enabling them to produce more engaging and effective posts. By understanding the different AI applications available, social media professionals can harness the power of AI to enhance their content strategies. This chapter will cover the following key areas:
 

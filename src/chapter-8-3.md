@@ -1,5 +1,4 @@
-Chapter 8: Case Studies of Successful AI Implementations in Improved Engagement Metrics
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of successful AI implementations that have led to improved engagement metrics in social media writing. These real-world examples highlight how organizations have effectively used AI technologies to enhance their content strategies and achieve higher levels of user engagement. By examining these case studies, social media professionals can gain insights into effective AI implementation strategies and apply them in their own practices. This chapter will present the following case studies:
 

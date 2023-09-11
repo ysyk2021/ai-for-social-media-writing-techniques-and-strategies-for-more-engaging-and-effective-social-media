@@ -1,5 +1,4 @@
-Chapter 10: Assessing the Effectiveness of AI for Social Media Writing
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore methods and approaches to assess the effectiveness of AI for social media writing. As organizations incorporate AI technologies into their content creation strategies, it is crucial to measure and evaluate the impact of AI on the success of social media posts. By assessing its effectiveness, social media professionals can make data-driven decisions and optimize their AI implementation for more engaging and effective social media posts. This chapter will cover the following key points:
 

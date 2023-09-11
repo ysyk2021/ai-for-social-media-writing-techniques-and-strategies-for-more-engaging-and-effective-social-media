@@ -1,5 +1,4 @@
-Chapter 7: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of evaluating data availability and quality in the context of implementing AI for social media writing. Data is a critical component for training AI models and generating valuable insights. By understanding how to assess the availability and quality of data, social media professionals can ensure the accuracy and reliability of AI-driven strategies and achieve more engaging and effective social media posts. This chapter will cover the following key points:
 

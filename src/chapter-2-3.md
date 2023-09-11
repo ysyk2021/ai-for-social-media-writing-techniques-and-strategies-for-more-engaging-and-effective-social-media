@@ -1,5 +1,4 @@
-Chapter 3: Benefits of AI for Creating More Engaging and Effective Social Media Posts
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that AI offers in creating more engaging and effective social media posts. By harnessing the power of artificial intelligence, social media professionals can enhance their content strategies, improve audience targeting, and drive better results. This chapter will cover the following key points:
 

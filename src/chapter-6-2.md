@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for AI Implementation in Sentiment Analysis, Topic Modeling, and Segmentation
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the best practices for implementing artificial intelligence (AI) techniques in areas such as sentiment analysis, topic modeling, and segmentation. These AI-driven approaches can significantly enhance social media writing by providing valuable insights and improving engagement with the target audience. This chapter will cover the following key points:
 

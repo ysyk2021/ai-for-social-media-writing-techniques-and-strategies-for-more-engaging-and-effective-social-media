@@ -1,5 +1,4 @@
-Chapter 10: Identifying Potential Implementation Challenges
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential challenges that organizations may face when implementing AI technologies for social media writing. While AI offers significant benefits and opportunities, it is essential to be aware of the obstacles that may arise during the implementation process. By understanding and addressing these challenges, social media professionals can effectively leverage AI for more engaging and effective social media posts. This chapter will cover the following key challenges:
 
